@@ -1,0 +1,25 @@
+.home__remote {
+	padding: 54px 0 60px;
+}
+
+.home__remote__content {
+	text-align: center;
+	margin-bottom: 64px;
+}
+
+.home__remote__content__title {
+	color: var(--color-orange-2);
+	margin-bottom: 26px;
+	text-transform: uppercase;
+}
+
+.home__remote__content__text {
+	font-weight: normal;
+}
+
+.home__remote__bkg {
+	height: 327px;
+	background: url('img/remote-sm.png') no-repeat center;
+	-webkit-background-size: contain;
+	background-size: contain;
+}

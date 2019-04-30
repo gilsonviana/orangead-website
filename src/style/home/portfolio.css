@@ -1,0 +1,25 @@
+.home__portfolio {
+	padding: 46px 0 27px;
+}
+
+.home__portfolio__content {
+	text-align: center;
+}
+
+.home__portfolio__content__text {	
+	margin: 25px auto 44px;
+	width: 253px;
+}
+
+.home__portfolio__slider {
+	text-align: center;
+}
+
+.home__portfolio__slider__img {
+	margin: 150px 0;
+	width: auto;
+}
+
+.home__portfolio__slider__control__arrow {
+	cursor: pointer;
+}

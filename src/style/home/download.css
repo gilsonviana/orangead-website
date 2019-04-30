@@ -1,0 +1,22 @@
+.home__download {
+	background: #f1f1f1;
+}
+
+.home__download__content {
+	text-align: center;
+	margin-top: 63px;
+}
+
+.home__download__content__title {
+	font-weight: 300;
+	margin-bottom: 38px;
+}
+
+.home__download__bkg {
+	margin-top: 50px;
+	height: 685px;
+	max-height: 685px;
+	background: url('img/Download-sm.png') no-repeat bottom center;	
+	-webkit-background-size: contain;
+	background-size: contain;
+}

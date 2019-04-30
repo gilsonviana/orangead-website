@@ -1,0 +1,30 @@
+.home__header {
+	padding: 26px 0 98px;
+	background: url('img/Banner-sm.png') no-repeat left top;	
+	-webkit-background-size: cover;
+	background-size: cover;
+	color: var(--color-white-pure);
+}
+
+.home__header__nav__toggle {
+	border: none;
+	outline: none;
+	background: transparent;
+}
+
+.home__header__lead {
+	margin-top: 61px;
+}
+
+.home__header__lead__title,
+.home__header__lead__subtitle {
+	text-transform: uppercase;	
+}
+
+.home__header__lead__subtitle {
+	font-weight: normal;
+}
+
+.home__header__lead__text {
+	margin-top: 26px;
+}

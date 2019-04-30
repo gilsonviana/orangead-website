@@ -1,0 +1,74 @@
+html {
+    box-sizing: border-box;
+    text-rendering: optimizeLegibility;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit
+}
+
+body {
+    margin: 0;
+    font-family: var(--font-primary);
+}
+
+a, a:visited, a:link, a:hover, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+h1 {
+    font-size: var(--h1-sm);
+}
+
+h2 {
+    font-size: var(--h2-sm);
+}
+
+h3 {
+    font-size: var(--h3-sm);
+}
+
+h4 {
+    font-size: var(--h4-sm);
+}
+
+h5 {
+    font-size: var(--h5-sm);
+}
+
+h6 {
+    font-size: var(--h6-sm);
+}
+
+p {
+    font-size: var(--p-sm);
+}
+
+@media screen and (min-width: 1920px) {
+    h1 {
+        font-size: var(--h1-lg);
+    }
+    h2 {
+        font-size: var(--h2-lg);
+    }
+    h3 {
+        font-size: var(--h3-lg);
+    }
+    h4 {
+        font-size: var(--h4-lg);
+    }
+    h5 {
+        font-size: var(--h5-lg);
+    }
+    h6 {
+        font-size: var(--h6-lg);
+    }
+    p {
+        font-size: var(--p-lg);
+    }
+}

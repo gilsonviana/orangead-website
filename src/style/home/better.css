@@ -1,0 +1,17 @@
+.home__better {
+	text-align: center;
+	background: var(--color-grey-3);
+	padding: 63px 0 48px;
+}
+
+.home__better__content__title {
+	margin-bottom: 39px;
+	text-transform: uppercase;
+}
+.home__better__bkg {
+	background: url('img/better-sm.png') no-repeat center;
+	-webkit-background-size: contain;
+	background-size: contain;
+	margin-top: 46px;
+	height: 317px;
+}
