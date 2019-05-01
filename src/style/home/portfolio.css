@@ -6,9 +6,14 @@
 	text-align: center;
 }
 
+.home__portfolio__content__title {	
+	font-weight: normal;
+}
+
 .home__portfolio__content__text {	
 	margin: 25px auto 44px;
 	width: 253px;
+	color: var(--color-grey-2);
 }
 
 .home__portfolio__slider {

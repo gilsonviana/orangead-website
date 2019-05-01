@@ -4,6 +4,10 @@
 	color: var(--color-grey-2, #777777);
 }
 
+.home__contact__content__title {
+	font-weight: normal;
+}
+
 .home__contact__content__text {
 	margin-bottom: 45px;
 }

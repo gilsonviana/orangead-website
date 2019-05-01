@@ -7,6 +7,12 @@
 .home__better__content__title {
 	margin-bottom: 39px;
 	text-transform: uppercase;
+	font-family: var(--font-primary);
+}
+
+.home__better__content__text {
+	font-family: var(--font-secondary-semi);
+	color: var(--color-grey-2)
 }
 
 .home__better__bkg {

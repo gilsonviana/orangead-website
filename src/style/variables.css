@@ -9,8 +9,11 @@
     --color-white-pure: #ffffff;
     --color-green: #3c961c;
 
-    --font-primary: 'Gilroy', sans-serif;
+    --font-primary: 'Gilroy ExtraBold', sans-serif;
+    --font-primary-light: 'Gilroy Light', sans-serif;
     --font-secondary: 'Open Sans', sans-serif;
+    --font-secondary-semi: 'Open Sans SemiBold', sans-serif;
+    --font-secondary-light: 'Open Sans Light', sans-serif;
 
     --h1-sm: 32px;
     --h2-sm: 30px;

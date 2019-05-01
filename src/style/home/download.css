@@ -10,6 +10,7 @@
 .home__download__content__title {
 	font-weight: 300;
 	margin-bottom: 38px;
+	font-family: var(--font-secondary-light);
 }
 
 .home__download__content__text {

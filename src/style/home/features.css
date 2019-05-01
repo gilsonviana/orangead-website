@@ -8,6 +8,8 @@
 
 .home__features__title {
 	font-weight: normal;
+	font-family: var(--font-primary-light);
+	margin: 29px 0;
 }
 
 .home__features__title,
@@ -19,8 +21,8 @@
 	margin-top: 60px;
 }
 
-.home__features__title {
-	margin: 29px 0;
+.home__features__card__title {
+	font-family: var(--font-primary);
 }
 
 @media screen and (min-width: 1200px) {	

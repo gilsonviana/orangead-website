@@ -19,6 +19,13 @@
     .d-lg-block {
         display: block !important;
     }
+    .d-lg-flex {
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        display: -o-flex;
+        display: flex !important;
+    }    
     .d-lg-none {
         display: none !important;
     }

@@ -9,6 +9,7 @@
 .home__about__content__subtitle,
 .home__about__content__title {
 	text-transform: uppercase;
+	font-family: var(--font-primary);
 }
 
 .home__about__content__subtitle {

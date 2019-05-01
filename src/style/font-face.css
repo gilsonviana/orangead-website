@@ -1,8 +1,44 @@
 @font-face {
+    font-family: 'Gilroy ExtraBold', sans-serif;
+    src: 
+        local('Gilroy ExtraBold')
+        url('font/Gilroy-ExtraBold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy Light', sans-serif;
+    src: 
+        local('Gilroy Light')
+        url('font/Gilroy-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'Open Sans', sans-serif;
     src: 
         local('Open Sans')
         url('font/OpenSans-Regular.ttf') format('truetype');
     font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans SemiBold', sans-serif;
+    src: 
+        local('Open Sans SemiBold')
+        url('font/OpenSans-SemiBold.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans Light', sans-serif;
+    src: 
+        local('Open Sans')
+        url('font/OpenSans-Light.ttf') format('truetype');
+    font-weight: 300;
     font-style: normal;
 }

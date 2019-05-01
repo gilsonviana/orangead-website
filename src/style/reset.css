@@ -9,7 +9,7 @@ html {
 
 body {
     margin: 0;
-    font-family: var(--font-primary);
+    font-family: var(--font-secondary);
 }
 
 a, a:visited, a:link, a:hover, a:active {

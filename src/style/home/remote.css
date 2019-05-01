@@ -11,10 +11,11 @@
 	color: var(--color-orange-2);
 	margin-bottom: 26px;
 	text-transform: uppercase;
+	font-family: var(--font-primary);
 }
 
-.home__remote__content__text {
-	font-weight: normal;
+.home__remote__content__text {	
+	font-family: var(--font-secondary-semi);
 }
 
 .home__remote__bkg {
