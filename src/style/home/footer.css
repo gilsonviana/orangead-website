@@ -32,7 +32,7 @@
 
 .home__footer__nav__menu__item {
 	border-right: 1px solid var(--color-white-pure, #ffffff);
-	padding: 0 1vw;
+	padding: 0 .08vw;
 }
 
 .home__footer__nav__menu__item:last-child {
