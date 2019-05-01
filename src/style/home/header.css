@@ -1,8 +1,8 @@
 .home__header {
 	padding: 26px 0 98px;
 	background: url('img/Banner-sm.png') no-repeat left top;	
-	-webkit-background-size: cover;
-	background-size: cover;
+	-webkit-background-size: contain;
+	background-size: contain;
 	color: var(--color-white-pure);
 }
 
@@ -72,22 +72,22 @@
 
 @media screen and (min-width: 1200px) {
 	.home__header {		
-		padding: 33px 0 183px;
+		padding: 33px 0 173px;
 		background: url('img/banner-lg.png') no-repeat center top;	
 		-webkit-background-size: cover;
 		background-size: cover;
 	}
 
 	.home__header__lead {
-		margin-top: 165px;
+		margin-top: 115px;
 	}
 
 	.home__header__lead__title {
-		font-size: 98px;
+		font-size: 56px;
 	}
 
 	.home__header__lead__subtitle {
-		font-size: 68px;
+		font-size: 36px;
 
 	}
 
