@@ -23,3 +23,22 @@
 .home__portfolio__slider__control__arrow {
 	cursor: pointer;
 }
+
+@media screen and (min-width: 1920px) {
+	.home__portfolio {
+		padding: 57px 0 92px;
+	}
+
+	.home__portfolio__slider__img {
+		margin: 217px 110px;		
+	}	
+
+	.home__portfolio__content__title {
+		font-size: 44px;
+		font-weight: normal;
+	}
+
+	.home__portfolio__content__text {
+		width: 490px;
+	}
+}

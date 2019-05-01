@@ -35,3 +35,25 @@
 .home__about__slider__control__arrow {
 	cursor: pointer;
 }
+
+@media screen and (min-width: 1200px) {
+	.home__about {
+		padding: 111px 0;
+	}
+
+	.home__about__content__subtitle {
+		font-size: 16px;
+	}
+
+	.home__about__content__title {
+		font-size: 54px;
+	}
+
+	.home__about__content__text {
+		line-height: 30px;
+	}
+
+	.home__about__slider__control {
+		text-align: right;
+	}
+}

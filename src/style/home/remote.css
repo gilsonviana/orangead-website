@@ -23,3 +23,22 @@
 	-webkit-background-size: contain;
 	background-size: contain;
 }
+
+@media screen and (min-width: 1200px) {
+	.home__remote {
+		padding: 99px 0 86px;
+	}
+
+	.home__remote__content {
+		margin-top: 128px;
+		text-align: left;
+	}
+
+	.home__remote__content__title {
+		margin-bottom: 40px;
+	}
+
+	.home__remote__content__text {
+		font-size: 26px;		
+	}
+}

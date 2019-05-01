@@ -12,6 +12,10 @@
 	margin-bottom: 38px;
 }
 
+.home__download__content__text {
+	margin-bottom: 58px;	
+}
+
 .home__download__bkg {
 	margin-top: 50px;
 	height: 685px;
@@ -19,4 +23,14 @@
 	background: url('img/Download-sm.png') no-repeat bottom center;	
 	-webkit-background-size: contain;
 	background-size: contain;
+}
+
+@media screen and (min-width: 1200px) {
+	.home__download__content {
+		text-align: left;
+	}
+
+	.home__download__content {
+		margin-top: 208px;
+	}
 }

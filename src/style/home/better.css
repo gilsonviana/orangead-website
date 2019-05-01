@@ -8,10 +8,34 @@
 	margin-bottom: 39px;
 	text-transform: uppercase;
 }
+
 .home__better__bkg {
 	background: url('img/better-sm.png') no-repeat center;
 	-webkit-background-size: contain;
 	background-size: contain;
 	margin-top: 46px;
 	height: 317px;
+}
+
+@media screen and (min-width: 1200px) {
+	.home__better {
+		text-align: center;
+		background: var(--color-grey-3);
+		padding: 170px 0;
+	}
+	.home__better__content {
+		text-align: left;
+	}
+
+	.home__better__content__text {
+		font-size: 18px;
+	}
+
+	.home__better__bkg {
+		background: url('img/better-lg.png') no-repeat center;		
+		-webkit-background-size: contain;
+		background-size: contain;
+		margin-top: 0;
+		height: 579px;
+	}
 }

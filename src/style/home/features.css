@@ -22,3 +22,30 @@
 .home__features__title {
 	margin: 29px 0;
 }
+
+@media screen and (min-width: 1200px) {	
+	.home__features {
+		padding: 101px 0;
+	}
+
+	.home__features__title {
+		font-size: 50px;
+	}
+
+	.home__features__card {		
+		display: inline-block;
+		vertical-align: top;
+		width: 353px;
+		margin-right: 55px;
+	}	
+
+	.home__features__card:last-of-type {
+		margin-right: 0;
+	}
+
+	.home__features__card__title {
+		font-size: 30px;
+		height: 63px;
+		margin-bottom: 41px;
+	}
+}
