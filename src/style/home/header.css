@@ -73,7 +73,9 @@
 @media screen and (min-width: 1200px) {
 	.home__header {		
 		padding: 33px 0 183px;
-		background: url('img/banner-lg.png') no-repeat left top;	
+		background: url('img/banner-lg.png') no-repeat center top;	
+		-webkit-background-size: cover;
+		background-size: cover;
 	}
 
 	.home__header__lead {
