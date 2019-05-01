@@ -1,0 +1,6 @@
+.portfolio__header {
+	background-color: #c9c9c9;
+	background-image: linear-gradient(to right, #f68041 0%, #ff556e 100%);
+	color: var(--color-white-pure);
+	padding: 33px 0 50px;
+}

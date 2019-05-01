@@ -1,0 +1,42 @@
+.portfolio__lead {
+	padding: 58px 0 74px;
+	border-bottom: 2px solid #e5e5e5;
+}
+
+.portfolio__lead__content {
+	border-bottom: 2px solid #e5e5e5;
+	padding-bottom: 50px;
+}
+
+.portfolio__lead__content__breadcrumb {
+	font-size: 16px;
+	font-family: var(--font-primary);
+	text-transform: uppercase;
+}
+
+.portfolio__lead__content__title {
+	font-family: var(--font-primary);
+	color: var(--color-orange-1);	
+	text-transform: uppercase;
+	margin: 26px 0 46px;
+}
+
+.portfolio__lead__content__text {
+	color: var(--color-grey-2);
+}
+
+.portfolio__lead__download {
+	padding-top: 46px;
+}
+
+.portfolio__lead__download__title {
+	color: #3f3f3f;
+	font-size: 14px;
+	font-weight: normal;	
+	margin-bottom: 17px;
+}
+
+.portfolio__lead__slider__control {
+	margin-top: 63px;
+	text-align: center;
+}

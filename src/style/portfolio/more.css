@@ -1,0 +1,38 @@
+.portfolio__more {
+	text-align: center;
+	padding: 61px 0 100px;
+}
+
+.portfolio__more__title {
+	font-weight: normal;
+	color: var(--color-grey-1);
+}
+
+.portfolio__more__text {	
+	font-size: 14px;
+	color: var(--color-grey-2);
+}
+
+.portfolio__more__item {	
+	margin-top: 69px;
+	height: 386px;
+	box-shadow: 0 0 12px rgba(222, 222, 222, 0.5);
+}
+
+.portfolio__more__item img {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+@media screen and (min-width: 1200px) {
+	.portfolio__more__item {
+		width: 384px;		
+		display: inline-block;	
+		vertical-align: middle;	
+	}	
+
+	.portfolio__more__item:first-of-type {
+		margin-right: 48px;
+	}
+}

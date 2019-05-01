@@ -70,7 +70,7 @@
 	color: var(--color-orange-1);	
 }
 
-@media screen and (min-width: 1920px) {
+@media screen and (min-width: 1200px) {
 	.home__header {		
 		padding: 33px 0 183px;
 		background: url('img/banner-lg.png') no-repeat left top;	
