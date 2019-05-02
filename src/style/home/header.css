@@ -1,8 +1,8 @@
 .home__header {
 	padding: 26px 0 98px;
 	background: url('img/Banner-sm.png') no-repeat left top;	
-	-webkit-background-size: contain;
-	background-size: contain;
+	-webkit-background-size: cover;
+	background-size: cover;
 	color: var(--color-white-pure);
 }
 
@@ -47,6 +47,7 @@
 
 .home__header__lead__text {
 	margin: 26px 0 47px;
+	width: 39vw;
 }
 
 .home__header__lead__text span {
@@ -94,6 +95,6 @@
 	.home__header__lead__text {
 		font-size: 20px;
 		margin: 48px 0;
-		width: 952px;
+		width: 54vw;
 	}
 }

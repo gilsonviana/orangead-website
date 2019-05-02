@@ -1,3 +1,9 @@
+@media screen and (max-width: 499px) {
+	.home__about__content__title {
+		font-size: 6.5vw;
+	}
+}
+
 .home__about {
 	padding: 38px 0 30px;
 }

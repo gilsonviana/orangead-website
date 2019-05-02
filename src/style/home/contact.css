@@ -87,12 +87,12 @@
 	}
 
 	.contact__form__group {		
-		flex: 0 0 47%;
-		margin: 0 22px 19px 0;
+		flex: 0 0 44.5%;
+		margin: 0 1.5vw 19px 0;
 	}
 
 	.contact__form__group:last-of-type {
-		flex: 0 0 97%;
+		flex: 0 0 93%;
 	}
 
 	.home__contact__bkg {
@@ -104,6 +104,10 @@
 	}	
 
 	.home__contact__content__form [type=submit] { 
-		width: 97%;
+		width: 93%;
+	}
+
+	.home__contact__content__form [type=submit] span {
+		height: 150%;
 	}
 }

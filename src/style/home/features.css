@@ -37,7 +37,7 @@
 	.home__features__card {		
 		display: inline-block;
 		vertical-align: top;
-		width: 353px;
+		width: 17.5vw;
 		margin-right: 55px;
 	}	
 
@@ -46,8 +46,8 @@
 	}
 
 	.home__features__card__title {
-		font-size: 30px;
+		font-size: 1.3vw;
 		height: 63px;
-		margin-bottom: 41px;
+		margin: 1vw 0;
 	}
 }
