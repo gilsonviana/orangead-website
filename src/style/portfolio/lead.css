@@ -36,7 +36,10 @@
 	margin-bottom: 17px;
 }
 
-.portfolio__lead__slider__control {
-	margin-top: 63px;
+.portfolio__lead__slider {
 	text-align: center;
+}
+
+.portfolio__lead__slider__control {
+	margin-top: 63px;	
 }
